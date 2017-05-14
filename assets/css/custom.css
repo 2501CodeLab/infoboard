@@ -5,7 +5,7 @@ html {
 
 body {
   margin-bottom: 60px;
-  background-image: url(http://www.euclidlibrary.org/images/tickle-your-brain/random-wallpapers-american-flag-wallpaper-34317.jpg?sfvrsn=0);
+  background-image: url(http://www.lanetech.org/img-featured/photo1.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -41,11 +41,9 @@ h1, h2, h3, h4, h5, h6 {
   color: white;
 }
 
-h1 {
-  font-size: 10vh;
+#headline, #content {
+  opacity: 0;
 }
-
-#main p {font-size: 5vh;}
 
 footer {
   position: absolute;
